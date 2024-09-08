@@ -1,0 +1,51 @@
+[
+    {
+      "role": "SDE-1",
+      "searchRole":"Software Developer",
+      "company": "Adobe",
+      "pay": "64 LPA",
+      "location": "Bangalore",
+      "skills": "DSA",
+      "xp": "0-1",  
+      "degree": "Btech",
+      "logo": "./images/coding-ninjas.jpg",
+      "type":"Full-Time"
+    },
+    {
+      "role": "Full-Stack-Developer",
+      "searchRole":"Full Stack Developer",
+      "company": "Next-Spark",
+      "pay": "Performance Based",
+      "location": "Remote",
+      "skills": "MERN",
+      "xp": "1+", 
+      "degree": "Btech/BCA/BSc",
+      "logo": "./images/coding-ninjas.jpg",
+      "type":"Internship"
+    },
+    {
+      "role": "SDE-1",
+      "searchRole":"Software Developer",
+      "company": "Adobe",
+      "pay": "64 LPA",
+      "location": "Bangalore",
+      "skills": "DSA",
+      "xp": "0-1",  
+      "degree": "Btech",
+      "logo": "./images/coding-ninjas.jpg",
+      "type":"Full-Time"
+    },
+    {
+      "role": "Full-Stack-Developer",
+      "searchRole":"Full Stack Developer",
+      "company": "Next-Spark",
+      "pay": "Performance Based",
+      "location": "Remote",
+      "skills": "MERN",
+      "xp": "1+", 
+      "degree": "Btech/BCA/BSc",
+      "logo": "./images/coding-ninjas.jpg",
+      "type":"Internship"
+    }
+  ]
+  
